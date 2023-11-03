@@ -1,8 +1,6 @@
 # Large Language Model Demo
 
-## Retrieval Augmented Generation
-
-Before running the notebook
+Before running the notebooks
 
 1. Add a .env file with OPENAI_API_KEY=your api key
 2. Download the pdf from https://www.gov.nl.ca/cssd/files/Guide-to-Programs-Services-2022.pdf
